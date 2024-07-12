@@ -1,6 +1,6 @@
 The app is specifically designed for users who browse from mobile browsers
 
-App Setup:
+To setup the app:
 
 1. Navigate to 'backend' folder on terminal and run 'npm install'
 2. Run node src/app.js 
